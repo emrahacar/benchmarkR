@@ -1,3 +1,4 @@
+# added 2nd time
 source('http://rbenchmark.googlecode.com/svn/trunk/benchmark.R')
 getMat<-function(file) {
  load(file)
